@@ -2,6 +2,7 @@
 I have years of writing experience in journalism, education, and technical writing. Some of my earlier technical writing experience was through a state job with Disability Determinations, and I currently work full time as a technical writer/documentation specialist at a large financial institution. Most of my technical writing has been on internal procedures that I cannot share in a portfolio, so I've included links to other writing samples below.
 ## Technical and Business Writing
 - [Submitting Poetry Responses to Teams (PDF)](https://github.com/LAS3113/writing-samples/files/7068614/Gregory_writingsample1.pdf) - A brief "how-to" document to help students navigate the Class Notebook in Microsoft Teams, which I utilized during distance education in early 2020. 
+- [Dress Code One-Page Sample (PDF)](https://github.com/LAS3113/writing-samples/blob/main/Gregory_writingsample2.pdf) - A writing sample I created as part of a previous hiring process. I was given a short prompt and some information to include and asked to design a one-page document for hypothetical employees.
 
 I created the following documents as part of a graduate-level document design class.
 - [Sample Business Letter (PDF)](https://github.com/LAS3113/writing-samples/files/7078776/SampleBusinessLetter.pdf)
